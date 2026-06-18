@@ -1,0 +1,52 @@
+{
+    "S001": {
+        "name": "Aryan Gupta",
+        "age": 16,
+        "city": "Mumbai",
+        "gender": "male",
+        "student_class": "10",
+        "marks": 88,
+        "division": "First",
+        "result": "Pass"
+    },
+    "S002": {
+        "name": "Megha Jain",
+        "age": 15,
+        "city": "Jaipur",
+        "gender": "female",
+        "student_class": "9",
+        "marks": 56,
+        "division": "Second",
+        "result": "Pass"
+    },
+    "S003": {
+        "name": "Rahul Verma",
+        "age": 17,
+        "city": "Mumbai",
+        "gender": "male",
+        "student_class": "11",
+        "marks": 42,
+        "division": "Third",
+        "result": "Pass"
+    },
+    "S004": {
+        "name": "Pooja Desai",
+        "age": 14,
+        "city": "Ahmedabad",
+        "gender": "female",
+        "student_class": "8",
+        "marks": 29,
+        "division": "Fail",
+        "result": "Fail"
+    },
+    "S005": {
+        "name": "Imran Shaikh",
+        "age": 16,
+        "city": "Lucknow",
+        "gender": "male",
+        "student_class": "10",
+        "marks": 67,
+        "division": "First",
+        "result": "Pass"
+    }
+}
